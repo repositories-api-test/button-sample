@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+curl https://repos-api-sample-node-staging.herokuapp.com?release-phase=true
