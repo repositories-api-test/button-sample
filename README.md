@@ -35,4 +35,4 @@ For more information about using Heroku, check out https://devcenter.heroku.com/
 
 :rainbow: :rocket: :robot: :cop:
 :cat: :dog: :party: :bim:
-:personal-account-is-there-and-linked-with-gh-app:
+:personal-account-is-there-and-linked-with-gh-app-ci-and-automatic-deploy-enabled:
