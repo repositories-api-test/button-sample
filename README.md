@@ -38,3 +38,4 @@ For more information about using Heroku, check out https://devcenter.heroku.com/
 :personal-account-is-there-and-linked-with-gh-app-ci-and-automatic-deploy-enabled:
 user removed from the team
 kolkrabbi changes deployed
+sudo_as flag removed
