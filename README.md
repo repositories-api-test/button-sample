@@ -34,4 +34,4 @@ For more information about using Heroku, check out https://devcenter.heroku.com/
 ## Moar Emojis
 
 :rainbow: :rocket: :robot: :cop:
-:cat: :dog: :party:
+:cat: :dog: :party: :bim:
