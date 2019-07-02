@@ -39,3 +39,4 @@ For more information about using Heroku, check out https://devcenter.heroku.com/
 user removed from the team
 kolkrabbi changes deployed
 sudo_as flag removed
+ci heroku client updated
