@@ -36,3 +36,4 @@ For more information about using Heroku, check out https://devcenter.heroku.com/
 :rainbow:
 
 - fix deployed in kolkrabbi
+- trying again for debugging
