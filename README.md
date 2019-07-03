@@ -1,5 +1,6 @@
 - user still in the team
 - updating r-a
+- user left the team
 
 # button-sample
 
