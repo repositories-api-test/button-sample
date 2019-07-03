@@ -1,2 +1,2 @@
-web: nmp start
+web: npm start
 release: bin/release-phase
